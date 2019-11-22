@@ -13,7 +13,8 @@ CUDA_VISIBLE_DEVICES=1 python neural_style.py --content content/nju-1.jpg    --s
 CUDA_VISIBLE_DEVICES=1 python neural_style.py --content content/nju-cs-1.jpg --styles style/8.jpg --output result/result-nju-cs-8.jpg
 old
 
-declare -a style=('10.jpg' '11.jpg' '12.jpg' '13.jpg' '14.jpg' '15.jpg' '16.jpg' '17.jpg' '18.jpg' '19.jpg')
+#declare -a style=('10.jpg' '11.jpg' '12.jpg' '13.jpg' '14.jpg' '15.jpg' '16.jpg' '17.jpg' '18.jpg' '19.jpg')
+declare -a style=('9.jpg' '2.jpg' '3.jpg' '4.jpg' '5.jpg' '6.jpg' '20.jpg')
 declare -a content=('tb' 'jw' 'nju' 'nju-cs')
 
 for s in "${style[@]}";do
