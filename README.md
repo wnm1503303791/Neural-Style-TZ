@@ -39,12 +39,12 @@ tuzhuo @ croplab, HZAU
 
 ### style transfer 5
 
-<img src="style/17.jpg" width="420">
+<img src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=73c1d6fbcc5c10383073c690d378f876/9a504fc2d56285357f4c04c09aef76c6a6ef63a7.jpg" width="420">
 <img src="result/result-nju-17.jpg" width="420">
 
 ### style transfer 6
 
-<img src="style/18.jpg" width="420">
+<img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=de662d9a73ec54e755e1124cd851f035/9825bc315c6034a8a1861825c31349540923762a.jpg" width="420">
 <img src="result/result-nju-18.jpg" width="420">
 
 ## Appendix
