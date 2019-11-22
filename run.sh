@@ -25,4 +25,4 @@ for s in "${style[@]}";do
 	done
 done
 
-#bash ../push.sh
+bash push.sh
