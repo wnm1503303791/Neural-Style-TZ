@@ -31,7 +31,7 @@ tuzhuo @ croplab, HZAU
 3. 128 GB RAM
 4. tensorflow-gpu, NumPy, SciPy, Pillow, CUDA, imagenet-vgg-verydeep-19.mat
 5. for a 1200 * 950 pixel image, with the environment above, it only takes **2 min 15 sec** for 1000 iterations. 
-6. Using a **TOP-LEVEL GPU** would largely reduced spending time.
+6. Using a **TOP-LEVEL GPU** would largely reduce time cost.
 
 ## performance:
 
